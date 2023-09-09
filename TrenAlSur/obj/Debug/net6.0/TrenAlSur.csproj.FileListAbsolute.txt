@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\bin\Debug\net6.0\TrenAlSur.exe
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\bin\Debug\net6.0\TrenAlSur.deps.json
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\bin\Debug\net6.0\TrenAlSur.runtimeconfig.json
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\bin\Debug\net6.0\TrenAlSur.dll
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\bin\Debug\net6.0\TrenAlSur.pdb
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\TrenAlSur.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\TrenAlSur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\TrenAlSur.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\TrenAlSur.AssemblyInfo.cs
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\TrenAlSur.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\TrenAlSur.dll
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\refint\TrenAlSur.dll
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\TrenAlSur.pdb
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\TrenAlSur.genruntimeconfig.cache
+C:\Users\EQUIPO\source\repos\TrenAlSur\TrenAlSur\obj\Debug\net6.0\ref\TrenAlSur.dll
